@@ -12,12 +12,12 @@
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "https://images.app.goo.gl/hz7xkZBrvgLT4ioA8",
       "required": true
     },
     
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "hi",
       "required": true
     }   
 },
